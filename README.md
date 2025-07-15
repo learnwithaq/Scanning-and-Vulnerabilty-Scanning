@@ -1,6 +1,6 @@
 # nmap-commands
 Useful Nmap Commands
 
-```bash
-nmap -p- -sV -O -A -T4 <target-ip> -oN output-scan.txt
+nmap -p- -sV -O -A -T4 **<target-ip>** -oN output-scan.txt
+
 nmap -p- -sV -O -A -T4 <target-ip> -oX output.xml
