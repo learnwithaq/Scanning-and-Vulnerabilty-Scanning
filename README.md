@@ -1,4 +1,4 @@
-# Scannign & Vulnerability Scanning Commands
+# Scanning & Vulnerability Scanning Commands
 Scanning and Vulnerability Scanning
 
 
