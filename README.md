@@ -1,4 +1,4 @@
-# nmap-commands
+# Scannign & Vulnerability Scanning Commands
 Scanning and Vulnerability Scanning
 
 
